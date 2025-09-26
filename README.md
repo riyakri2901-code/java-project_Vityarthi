@@ -54,4 +54,4 @@ vityarthi_proj/
 
 
 ## Author
-Anshika Tiwari
+Riya Kumari
